@@ -55,29 +55,28 @@ Online-Examination-Portal/
     ├── select-paper.png
     └── exam.png
 
-## 📸 Project Screenshots
-
-Add your actual application screenshots to the screenshots folder.
-
 # Online Examination Portal — Screenshots
 
-## Registration
-[![Registration](./registration.png)](./registration.png)
+## 1. Registration Page
+[![Registration Page](./registration.png)](./registration.png)
 
-## Login
-[![Login](./login.png)](./login.png)
+## 2. Login Page
+[![Login Page](./login.png)](./login.png)
 
-## Home Page
-[![Home Page](./home.png)](./home.png)
+## 3. Select Paper
+[![Select Paper](./selectpaper.png)](./selectpaper.png)
 
-## Select Examination
-[![Select Examination](./select-paper.png)](./select-paper.png)
+## 4. Examination Questions
+[![Question Page](./question.png)](./question.png)
 
-## Examination Page
-[![Examination Page](./exam.png)](./exam.png)
-
-## Result Page
+## 5. Result Page
 [![Result Page](./result.png)](./result.png)
+
+## 6. Store Data
+[![Store Data](./storedata.png)](./storedata.png)
+
+## 7. Percentage Calculation
+[![Percentage Page](./percentage.png)](./percentage.png)
 
 
 Click any screenshot to open the full-size image.
