@@ -76,7 +76,7 @@ Online-Examination-Portal/
 [![Store Data](./storedata.png)](./storedata.png)
 
 ## 7. Percentage Calculation
-[![Percentage Page](./percentage.png)](./percentage.png)
+[![Percentage Page](./percenatage.png)](./percenatage.png)
 
 
 Click any screenshot to open the full-size image.
