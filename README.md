@@ -59,20 +59,26 @@ Online-Examination-Portal/
 
 Add your actual application screenshots to the screenshots folder.
 
-### 1. Registration Page
-[![Registration Page](screenshots/registration.png)](screenshots/registration.png)
+# Online Examination Portal — Screenshots
 
-### 2. Login Page
-[![Login Page](screenshots/login.png)](screenshots/login.png)
+## Registration
+[![Registration](./registration.png)](./registration.png)
 
-### 3. Home Page
-[![Home Page](screenshots/home.png)](screenshots/home.png)
+## Login
+[![Login](./login.png)](./login.png)
 
-### 4. Select Examination
-[![Select Examination](screenshots/select-paper.png)](screenshots/select-paper.png)
+## Home Page
+[![Home Page](./home.png)](./home.png)
 
-### 5. Examination Form
-[![Examination Form](screenshots/exam.png)](screenshots/exam.png)
+## Select Examination
+[![Select Examination](./select-paper.png)](./select-paper.png)
+
+## Examination Page
+[![Examination Page](./exam.png)](./exam.png)
+
+## Result Page
+[![Result Page](./result.png)](./result.png)
+
 
 Click any screenshot to open the full-size image.
 
